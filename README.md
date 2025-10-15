@@ -46,7 +46,7 @@ page 1 html:
   <body>
     <div class="android-medium">
       <img class="text-on-a-path" src="img/text-on-a-path.svg" />
-      <img class="basketball-sport" src="img/basketball-sport-competition-poster-background-1.png" />
+      <img class="basketball-sport" src="img/badminton-sport-competition-poster-background-1.png" />
       <img class="saveetha" src="img/saveetha-1.png" />
       <img class="saveethalogo" src="img/saveethalogo-1.png" />
       <div class="rectangle"></div>
@@ -213,11 +213,11 @@ page 2 html:
       <img class="star" src="img/star-1.svg" />
       <div class="div">CRICKET</div>
       <div class="text-wrapper-2">BADMINTON</div>
-      <div class="text-wrapper-3">VOLLEY BALL</div>
-      <div class="text-wrapper-4">KABADDI</div>
-      <div class="text-wrapper-5">HOCKEY</div>
-      <div class="text-wrapper-6">BASKET BALL</div>
-      <div class="text-wrapper-7">FOOTBALL</div>
+      <div class="text-wrapper-3">Mens singles</div>
+      <div class="text-wrapper-4">Mens doubles</div>
+      <div class="text-wrapper-5">Girls singles</div>
+      <div class="text-wrapper-6">Girls doubles</div>
+      <div class="text-wrapper-7">Mixed doubles</div>
       <img class="img" src="img/star-2.svg" />
       <img class="star-2" src="img/star-3.svg" />
       <img class="star-3" src="img/star-4.svg" />
@@ -462,7 +462,7 @@ page 3 html:
   <body>
     <div class="frame">
       <img class="element" src="img/948ab10c-809f-4029-a93f-e51fe0742cc9-1.png" />
-      <div class="text-wrapper">EVENT REGISTRATION FORM</div>
+      <div class="text-wrapper">TOURNAMENT REGISTRATION FORM</div>
       <div class="div">Fill the details</div>
       <div class="rectangle"></div>
       <div class="rectangle-2"></div>
